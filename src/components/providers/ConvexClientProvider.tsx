@@ -1,4 +1,3 @@
-
 "use client";
 
 import { ClerkProvider, useAuth } from "@clerk/nextjs";
@@ -18,4 +17,3 @@ function ConvexClientProvider({ children }: { children: React.ReactNode }) {
 }
 
 export default ConvexClientProvider;
-  
