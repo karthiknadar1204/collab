@@ -11,17 +11,6 @@ function Footer() {
             <Blocks className="size-5" />
             <span>Built for developers, by developers</span>
           </div>
-          <div className="flex items-center gap-6">
-            <Link href="/support" className="text-gray-400 hover:text-gray-300 transition-colors">
-              Support
-            </Link>
-            <Link href="/privacy" className="text-gray-400 hover:text-gray-300 transition-colors">
-              Privacy
-            </Link>
-            <Link href="/terms" className="text-gray-400 hover:text-gray-300 transition-colors">
-              Terms
-            </Link>
-          </div>
         </div>
       </div>
     </footer>
